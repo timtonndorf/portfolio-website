@@ -368,15 +368,15 @@ textarea {
 @keyframes color-change {
 	0% {
 		fill: #edc655;
-  	}
+	}
 
 	50% {
     	fill: #fcffad;
-  	}
+  }
 
 	100% {
     	fill: #f76414;
-  	}
+  }
 }
 
 @keyframes cloud-move {
